@@ -25,6 +25,7 @@ FullStack Ecommerce Website with Payment Gateway, Authentication, Secured API an
 4. Heroku
 5. JWT Token for Authentication
 6. Payment Gateway -> Stripe
+7. Mongoose
 
 ## Features:
 
